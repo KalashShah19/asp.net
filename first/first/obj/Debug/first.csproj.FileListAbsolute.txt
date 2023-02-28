@@ -1,0 +1,4 @@
+c:\users\gui\documents\visual studio 2010\Projects\first\first\bin\first.dll
+c:\users\gui\documents\visual studio 2010\Projects\first\first\bin\first.pdb
+c:\users\gui\documents\visual studio 2010\Projects\first\first\obj\Debug\first.dll
+c:\users\gui\documents\visual studio 2010\Projects\first\first\obj\Debug\first.pdb
